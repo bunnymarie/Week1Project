@@ -1,6 +1,7 @@
 body {
   background-color: #111111;
   font-family: 'Palanquin', sans-serif;
+  padding: 10px 10px 10px 10px;
 }
 .sweetheader{
   padding: 50px 100px 50px 100px;
@@ -74,4 +75,25 @@ img:hover{
   padding-top: 10px;
   padding-bottom: 10px;
   color: #df2935;
+}
+
+.portfoliomeat{
+  color: #111111;
+  padding: 10px 1px 1px 1px;
+  background-color: #e2df7a;
+  text-align: center;
+}
+.portfoliobone{
+  padding: 10px 15px 10px 15px;
+  background-color: #f5f3bb;
+  text align: center;
+}
+
+.panel-title{
+  font-family: 'Playfair Display SC', serif;
+  font-style: italic;
+}
+
+.section2{
+  float:right;
 }
