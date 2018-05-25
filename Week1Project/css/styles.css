@@ -1,0 +1,94 @@
+body {
+  background-color: #111111;
+  font-family: 'Palanquin', sans-serif;
+  padding: 10px 10px 10px 10px;
+}
+.sweetheader{
+  padding: 50px 100px 50px 100px;
+  background-color: #111111;
+  color: #f5f3bb;
+  text-align: center;
+}
+
+.sweettitle{
+  font-family: 'Playfair Display SC', serif;
+  font-style: italic;
+  letter-spacing: 25px;
+  font-size: 50px;
+  color: #dfa06e;
+}
+
+.sweettitle a{
+  color: #dfa06e;
+}
+
+.sweettitle a:hover {
+  color: #df2935;
+  opacity: 0.8;
+  text-shadow: 10px 0px 1px #dfa06e;
+}
+
+.centered-pills {
+  display: inline-block;
+}
+
+.nav > li{
+  padding-left:10px;
+  padding-right:10px;
+  background-color: #111111;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.nav > li > a {
+    color: #df2935;
+}
+.nav > li > a:hover {
+    color: #86ba90;
+    background-color: #f5f3bb;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+.sweetbod{
+  background-color: #f5f3bb;
+  padding: 50px 25px 50px 25px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+img {
+  float: right;
+}
+
+img:hover{
+    opacity: 0.6;
+}
+
+.poetry ol{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #df2935;
+}
+
+.portfoliomeat{
+  color: #111111;
+  padding: 10px 1px 1px 1px;
+  background-color: #e2df7a;
+  text-align: center;
+}
+.portfoliobone{
+  padding: 10px 15px 10px 15px;
+  background-color: #f5f3bb;
+  text align: center;
+}
+
+.panel-title{
+  font-family: 'Playfair Display SC', serif;
+  font-style: italic;
+}
+
+.section2{
+  float:right;
+}
